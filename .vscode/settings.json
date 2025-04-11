@@ -1,0 +1,21 @@
+{
+  "breadcrumbs.enabled": true,
+  "editor.autoIndent": "full",
+  "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": true,
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [
+    79,
+    120
+  ],
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "workbench.colorTheme": "Atom One Dark",
+  "workbench.iconTheme": "material-icon-theme",
+}
